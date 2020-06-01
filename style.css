@@ -28,7 +28,7 @@ body, html{
 
 
 .pimg1{
-  background-image:url('../img/ultra-inside.jpg');
+  background-image:url('ultra-inside.jpg');
   min-height:100%;
 }
 
